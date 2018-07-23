@@ -1,0 +1,8 @@
+id=onyx
+name=Dolby Atmos® (OnePlus X)
+version=v1.2
+versionCode=37
+author=omkolte17
+description=Dolby Atmos® transports you into the song with moving audio that flows all around you with breathtaking realism
+support=https://forum.xda-developers.com/oneplus-x/development/soundmod-dolby-atmos-oneplus-x-t3818971
+minMagisk=1530
