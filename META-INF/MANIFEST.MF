@@ -1,0 +1,87 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: .gitignore
+SHA1-Digest: VmNwFvDB2++kS5eNV978XzxSUiY=
+
+Name: system/lib/soundfx/libhwdax.so
+SHA1-Digest: SJ8dAoC7vCJrgrWGkwOu9s45HQM=
+
+Name: .gitattributes
+SHA1-Digest: L3vj+InX4NTq+jDlfL7YfBLPif0=
+
+Name: system/lib64/libhwdaphal.so
+SHA1-Digest: MmyLvFp9dxlfrSOoecB3MC4ygs8=
+
+Name: common/unityfiles/util_functions.sh
+SHA1-Digest: qnnreflB0Ccs5eMdKS3UP2mWbZA=
+
+Name: common/service.sh
+SHA1-Digest: QPlSy0SnP4e8ZjfdAqdejL0D5pA=
+
+Name: system/app/Ax/Ax.apk
+SHA1-Digest: 0xy64L/RweuclejBf4+pRjFbjJQ=
+
+Name: config.sh
+SHA1-Digest: gw993aq0CSGrwkGlphXxWx7+OIs=
+
+Name: system/lib/libhwdaphal.so
+SHA1-Digest: TILncHHL7DRr+3PCD4DJG5Zu2Oo=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: system/etc/media_codecs_dolby.xml
+SHA1-Digest: 3bU2x92LkEePQ11nsrDP/HKmE2g=
+
+Name: system/lib/soundfx/libswdax.so
+SHA1-Digest: 2aWtCA935eedMGMTTc2hDof38l4=
+
+Name: system/lib/libdlbdapstorage.so
+SHA1-Digest: po7Q/SQBQdWccxsnEPpxcc0KUPs=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: uG/Ex3UnU2sVBLOLfX3d2I+aNGg=
+
+Name: common/keycheck
+SHA1-Digest: d9R+n7eb9EA/3asBMPC0I39qzfA=
+
+Name: common/system.prop
+SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
+
+Name: system/lib/libstagefright_soft_ddpdec.so
+SHA1-Digest: 8lKIfbIybF8amBiRM8vxMp/PvJc=
+
+Name: common/unityfiles/modidsysover.sh
+SHA1-Digest: QIMuT/3mJrQXXP2erTlhWy6Hd38=
+
+Name: README.md
+SHA1-Digest: BrwZA/8SuCBsBQRFi4U8BGQaO2s=
+
+Name: common/unityfiles/addon.sh
+SHA1-Digest: xMc0V1Du26bd284t/i3gZjma+XA=
+
+Name: module.prop
+SHA1-Digest: rhZScJz5KXlCwdGfV4Tk084Tc4Q=
+
+Name: system/etc/dolby/dax-default.xml
+SHA1-Digest: ENDab2N7GeduPXVXWjghHXC/yMY=
+
+Name: common/unityfiles/modid.sh
+SHA1-Digest: iAKNlmvGaab3cRRoroDzYRuVJ7U=
+
+Name: common/uninstall.sh
+SHA1-Digest: v2L4+s7mN1jWBMbpvntN33IggjQ=
+
+Name: system/lib/libdlbmemoryservice.so
+SHA1-Digest: 8fFdGfbc+IuqIoCHlPlddGduVOU=
+
+Name: common/install.sh
+SHA1-Digest: apv/046lSgf24QIh5FfdLiF2ZQg=
+
+Name: system/app/AxUI/AxUI.apk
+SHA1-Digest: Ui7tG1R9B3tsMrvIGFxOJi75kR0=
+

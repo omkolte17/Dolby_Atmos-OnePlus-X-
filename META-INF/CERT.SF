@@ -1,0 +1,88 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: mISCg8r32LZeI/z/6xvuGfrN54Q=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: .gitignore
+SHA1-Digest-Manifest: Po07qDixkKK4MTUsQryO6O/tIII=
+
+Name: system/lib/soundfx/libhwdax.so
+SHA1-Digest-Manifest: LyildhWNPGr2vCC0argkFlPkrCM=
+
+Name: .gitattributes
+SHA1-Digest-Manifest: F+m14IU7KTeYzIIrKDX5dd3asd8=
+
+Name: system/lib64/libhwdaphal.so
+SHA1-Digest-Manifest: YuslueBT3Xcl4LmEvFvl0tEN6DQ=
+
+Name: common/unityfiles/util_functions.sh
+SHA1-Digest-Manifest: urLgEugnvsXbf7CK530MZnpElJo=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: o6/BsYmv0p2Q0gvlg681RrOsH/E=
+
+Name: system/app/Ax/Ax.apk
+SHA1-Digest-Manifest: gmcGvPFINMa/9xw3UnH7TFQMZCg=
+
+Name: config.sh
+SHA1-Digest-Manifest: ealIXJJ48WEU2fQIEk7DqvaPiyA=
+
+Name: system/lib/libhwdaphal.so
+SHA1-Digest-Manifest: nyIkpj90bk1IpIvn7GQa5Svj1OI=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: BwmpEoYDFu4UPW/nMQmvZd7Hz9M=
+
+Name: system/etc/media_codecs_dolby.xml
+SHA1-Digest-Manifest: uTi7xRTBchy50wcQEMp8SoKZfzg=
+
+Name: system/lib/soundfx/libswdax.so
+SHA1-Digest-Manifest: 2RLlGK9KG2zkwMF8OBmPCTuEE7k=
+
+Name: system/lib/libdlbdapstorage.so
+SHA1-Digest-Manifest: UmtxMqo2ABbwePVJ74pMbpaxHps=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: UjJZ9SzPP6pAyFcHND6i8sV4hEw=
+
+Name: common/keycheck
+SHA1-Digest-Manifest: Jp1pOUZ/v0L0w7+7ioBRP17sgsI=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: system/lib/libstagefright_soft_ddpdec.so
+SHA1-Digest-Manifest: Mbz3OQyzlTxDDrOKl1s+JYGRToI=
+
+Name: common/unityfiles/modidsysover.sh
+SHA1-Digest-Manifest: TzqpvGfonAVEPEle9FhKo1kEtbg=
+
+Name: README.md
+SHA1-Digest-Manifest: pcuKMArpF0zBbfLbemd02nGH7pc=
+
+Name: common/unityfiles/addon.sh
+SHA1-Digest-Manifest: RA52x5oJPA6nocrEK1pvAskrgpc=
+
+Name: module.prop
+SHA1-Digest-Manifest: 3AKrzrCIIRPu8iMcEb+CcTp8fX0=
+
+Name: system/etc/dolby/dax-default.xml
+SHA1-Digest-Manifest: W62+/OVvgCE9DzGSS1dvfaKyQ18=
+
+Name: common/unityfiles/modid.sh
+SHA1-Digest-Manifest: bnNlh+MP55vhyaFgyornPf7OCOI=
+
+Name: common/uninstall.sh
+SHA1-Digest-Manifest: +3S12yaxyDhQKK2rTlZSe1fGU2U=
+
+Name: system/lib/libdlbmemoryservice.so
+SHA1-Digest-Manifest: 8y1/HUJtOcjcTWB+5WePmZ0I6Wc=
+
+Name: common/install.sh
+SHA1-Digest-Manifest: 7SMPZ6H0hhhy1D9zXBcpwk1Vjt0=
+
+Name: system/app/AxUI/AxUI.apk
+SHA1-Digest-Manifest: OTTcCDxbypCr2pTfEaXvIfPLJDs=
+
