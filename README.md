@@ -21,4 +21,3 @@ This module enables OnePlus X Dolby Atmos port and is the first most compatible 
 
 ## Source Code
 * Module https://github.com/omkolte17/Dolby_Atmos-OnePlus-X-
-* Repo https://github.com/Magisk-Modules-Repo/Dolby-Atmos-OnePlus-X-
