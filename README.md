@@ -1,5 +1,5 @@
 # OnePlus X Dolby Atmos
-This module enables OnePlus X Dolby Atmos port and is the first most compatible of all the ports.
+[EOL] This module enables OnePlus X Dolby Atmos port and is the first most compatible of all the ports.
 
 ## Compatibility
 * Android Marshmallow-Oreo
